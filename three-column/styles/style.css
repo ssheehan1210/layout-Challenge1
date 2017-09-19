@@ -1,0 +1,57 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: auto;
+}
+
+h1, h2, h3, h4, h5 {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h3 {
+	padding-top: 17px;
+	padding-bottom: 17px;
+}
+
+header {
+	background-color: blue;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+
+div {
+	width: 30%;
+	height: 450px;
+	margin-bottom: 20px;
+}
+
+#left {
+	background-color: pink;
+	float: left;
+	width: 18%;
+}
+
+#center {
+	background-color: #dddcca;
+	float: left;
+	width: 58%;
+	margin-left: 3%;
+}
+
+#right {
+	background-color: #afafaf;
+	float: right;
+	width: 18%;
+}
+
+footer {
+	background-color: #aafffa;
+	clear: both;
+}
